@@ -1,2 +1,2 @@
 # Synthetic-Data-Advertisement
-Synthetic ML code for Advertisement Data
+Synthetic Machine Learning Code for Advertisement Data
