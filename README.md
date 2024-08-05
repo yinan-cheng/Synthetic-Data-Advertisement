@@ -1,5 +1,5 @@
 # Synthetic-Data-Advertisemen Updata
-已完成：
+已完成：  
 非潜在用户预测有无点开贴文  
 非潜在用户预测有无点赞贴文
 
